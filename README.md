@@ -26,6 +26,7 @@ The project is developed and maintained by :-
 - **Abheet Sethi** ([Abheet](https://github.com/AbheetSethi))
 - **Vidhi Jain** ([Vidhi](https://github.com/vidhijain470))
 - **Parth Pasricha**([Parth](https://github.com/Parth132))
+- **Jai Rai Lakhi**([Jai](https://github.com/JaiRaiLakhi))  
 <table>
 <tr>
 <td>
